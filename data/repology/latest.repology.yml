@@ -1,0 +1,24 @@
+- repo: aur
+  srcname: roumon
+  binname: roumon
+  visiblename: roumon
+  version: 1.2.0
+  origversion: 1.2.0-1
+  status: unique
+  summary: Universal goroutine monitor using pprof and termui
+  maintainers:
+    - kemelzaidan@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: roumon-bin
+  binname: roumon-bin
+  visiblename: roumon-bin
+  version: 1.2.0
+  origversion: 1.2.0-1
+  status: unique
+  summary: Universal goroutine monitor using pprof and termui
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
