@@ -45,12 +45,12 @@ Total: **859** lines of code across **10** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 1 | 1 | 0 | 0 | 1 |
-| last60d | 2026-09-21 | 0 | 1 | 1 | 0 | 0 | 3 |
-| 90d | 2026-08-22 | 0 | 1 | 1 | 0 | 0 | 3 |
-| last180d | 2026-05-24 | 0 | 5 | 1 | 0 | 0 | 5 |
-| 360d | 2025-11-25 | 0 | 15 | 2 | 0 | 1 | 18 |
-| last720d | 2024-11-30 | 0 | 16 | 2 | 0 | 1 | 42 |
+| 30d | 2026-10-22 | 0 | 1 | 1 | 0 | 0 | 1 |
+| last60d | 2026-09-22 | 0 | 1 | 1 | 0 | 0 | 3 |
+| 90d | 2026-08-23 | 0 | 1 | 1 | 0 | 0 | 3 |
+| last180d | 2026-05-25 | 0 | 5 | 1 | 0 | 0 | 5 |
+| 360d | 2025-11-26 | 0 | 15 | 2 | 0 | 1 | 18 |
+| last720d | 2024-12-01 | 0 | 16 | 2 | 0 | 1 | 42 |
 
 ## Release assets
 
@@ -75,4 +75,4 @@ Install metadata for roumon lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T10:11:56Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:40:39Z._
